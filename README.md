@@ -24,10 +24,10 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
 3. Read / write data files
 
    - Read GMT *.grd file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/io/read_gmt_grd.ipynb)
-   - Read / save time-series HDF5 file into text file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/save_data2text.ipynb)
+   - Read / save time-series HDF5 file into text file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/io/save_data2text.ipynb)
    - Read HDF5 files in Matlab: [m file](./io/read_hdf5.m)
 
-4. Custom applications. List of examples of how to build customized application using mintpy modules or processing recipe using mintpy scripts.     
+4. Custom applications. List of examples of how to build customized application using mintpy modules or to build processing recipe using mintpy scripts.     
 
    - Create water mask in radar coordinates: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/water_mask.ipynb)
    - Tropospheric delay correction using GACOS products: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/tropo_gacos.ipynb)
@@ -37,7 +37,7 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
    - Plot GPS as quiver on top of InSAR data: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/plot_gps_quiver.ipynb)
    - Average velocity estimation demonstration: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/timeseries2velocity.ipynb)
 
-5. Simulation of 3D phase time-series. An example of simulating displacement, tropospheric delays, topographic residuals and phase ramps to construct a 3D raw phase time-series: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/tree/master/simulations/). Handy tools for algorithm developers.    
+5. Simulation of 3D phase time-series. An example of simulating displacement, tropospheric delays, topographic residuals and phase ramps to construct a 3D raw phase time-series: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/tree/master/simulations/). Handy tools for algorithm developers. Note this is in alpha stage (under active development).    
 
 ## Useful links from external repositories ##
 
