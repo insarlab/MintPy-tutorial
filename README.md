@@ -29,6 +29,7 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
 
 4. Custom applications. List of examples of how to build customized application using mintpy modules or to build processing recipe using mintpy scripts.     
 
+   - Calculate multilook number for InSAR processing with ISCE: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/calc_multilook_number.ipynb)
    - Create water mask in radar coordinates: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/water_mask.ipynb)
    - Tropospheric delay correction using GACOS products: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/tropo_gacos.ipynb)
    - Post-processing of single interferogram after ISCE/stripmapApp: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/stripmapApp_postprocessing.ipynb)
