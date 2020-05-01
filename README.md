@@ -25,6 +25,7 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
 
    - Read GMT *.grd file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/io/read_gmt_grd.ipynb)
    - Read / save time-series HDF5 file into text file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/io/save_data2text.ipynb)
+   - Read / plot displacement time-series of one pixel: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/plot_displacement_timeseries.ipynb)
    - Read HDF5 files in Matlab: [m file](./io/read_hdf5.m)
 
 4. Custom applications. List of examples of how to build customized application using mintpy modules or to build processing recipe using mintpy scripts.     
@@ -34,7 +35,6 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
    - Tropospheric delay correction using GACOS products: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/tropo_gacos.ipynb)
    - Post-processing of single interferogram after ISCE/stripmapApp: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/stripmapApp_postprocessing.ipynb)
    - Geo / radar coordinates conversion: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/coordinate_conversion.ipynb)
-   - Extract / plot displacement time-series of one pixel: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/plot_displacement_timeseries.ipynb)
    - Plot GPS as quiver on top of InSAR data: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/plot_gps_quiver.ipynb)
    - Average velocity estimation demonstration: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/timeseries2velocity.ipynb)
 
