@@ -38,8 +38,6 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
    - Plot GPS as quiver on top of InSAR data: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/plot_gps_quiver.ipynb)
    - Average velocity estimation demonstration: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/timeseries2velocity.ipynb)
 
-5. Simulation of 3D phase time-series. An example of simulating displacement, tropospheric delays, topographic residuals and phase ramps to construct a 3D raw phase time-series: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/tree/master/simulations/). Handy tools for algorithm developers. Note this is in alpha stage (under active development).    
-
 ## Useful links from external repositories ##
 
 1. Single interferogram processing with [ISCE2](https://github.com/isce-framework/isce2-docs/tree/master/Notebooks)
