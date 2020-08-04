@@ -1,5 +1,5 @@
-## Simulation of 3D phase time-series based on [`mintpy.simulation`](https://github.com/insarlab/MintPy/tree/master/mintpy/simulation) ##
+## Simulation of 3D phase time-series based on [`mintpy.simulation`](https://github.com/insarlab/MintPy/tree/main/mintpy/simulation) ##
 
 🚨 **This toolbox is in alpha stage and undergoing rapid development.** 🚨
 
-An example of simulating displacement, tropospheric delays, topographic residuals and phase ramps to construct a 3D raw phase time-series: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/tree/master/simulations/). Handy tools for algorithm developers.
+An example of simulating displacement, tropospheric delays, topographic residuals and phase ramps to construct a 3D raw phase time-series: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/tree/main/simulations/). Handy tools for algorithm developers.
