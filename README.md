@@ -9,9 +9,9 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
 
 ## Contents ([nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/tree/main/))
 
-1. Small baseline time series analysis with `smallbaselineApp`. This tutorial walks through the various processing steps of InSAR time series analysis using MintPy.     
+1. Small baseline time series analysis with `smallbaselineApp`. This notebook walks through the various processing steps of InSAR time series analysis using MintPy.     
 
-   - ISCE/topsStack + MintPy (Sentinel-1 on Fernandina volcano, Galápagos): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp.ipynb)
+   - ISCE/topsStack + MintPy (Sentinel-1 on Fernandina, Galápagos): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp.ipynb)
    - ARIA + MintPy (Sentinel-1 on San Francisco): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp_aria.ipynb)
 
 2. Visualizations   
