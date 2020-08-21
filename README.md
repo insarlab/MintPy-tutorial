@@ -25,7 +25,7 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
 
    - Read GMT *.grd file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/read_gmt_grd.ipynb)
    - Read / save time-series HDF5 file into text file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/save_data2text.ipynb)
-   - Read / plot displacement time-series of one pixel: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/plot_displacement_timeseries.ipynb)
+   - Read / plot displacement time-series of one pixel: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/plot_dis_ts.ipynb)
    - Read HDF5 files in Matlab: [m file](./io/read_hdf5.m)
 
 4. Custom applications. List of examples of how to build customized application using mintpy modules or to build processing recipe using mintpy scripts.     
@@ -33,10 +33,10 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
    - Calculate multilook number for InSAR processing with ISCE: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/calc_multilook_number.ipynb)
    - Create water mask in radar coordinates: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/water_mask.ipynb)
    - Tropospheric delay correction using GACOS products: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/tropo_gacos.ipynb)
-   - Post-processing of single interferogram after ISCE/stripmapApp: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/stripmapApp_postprocessing.ipynb)
-   - Geo / radar coordinates conversion: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/coordinate_conversion.ipynb)
+   - Post-processing of single interferogram after ISCE/stripmapApp: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/stripmapApp_postProc.ipynb)
+   - Geo / radar coordinates conversion: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/coord_conversion.ipynb)
    - Plot GPS as quiver on top of InSAR data: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/plot_gps_quiver.ipynb)
-   - Average velocity estimation demonstration: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/timeseries2velocity.ipynb)
+   - Average velocity estimation demonstration: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/ts2vel.ipynb)
 
 ## Useful links from external repositories ##
 
