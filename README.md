@@ -1,6 +1,6 @@
 # MintPy-tutorial
 
-[![Language](https://img.shields.io/badge/python-3.5%2B-blue.svg)](https://www.python.org/)
+[![Language](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-GPLv3-yellow.svg)](https://github.com/insarlab/MintPy-tutorial/blob/main/LICENSE)
 [![render](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/tree/main/)
 [![Citation](https://img.shields.io/badge/doi-10.1016%2Fj.cageo.2019.104331-blue)](https://doi.org/10.1016/j.cageo.2019.104331)
@@ -15,8 +15,8 @@ This notebook walks through the various processing steps of InSAR time series an
 
    - ISCE/topsStack + MintPy (Sentinel-1 on Fernandina, Galápagos): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp.ipynb)
    - ARIA + MintPy (Sentinel-1 on San Francisco Bay): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp_aria.ipynb)
-       - [2019 UNAVCO short course recording on YouTube](https://youtu.be/lRFDSsi8ZcY?t=10933) [starting at 3:02:12]
-       - [2020 UNAVCO short course recroding on Google Drive](https://drive.google.com/file/d/195L-aaxqYFctsJP85k3fme_2vXZIBxR6/view?usp=sharing) [starting at 52:40]
+       - [2020 UNAVCO short course recroding on YurTube](https://youtu.be/BVdVylW_vVQ)
+       - [2019 UNAVCO short course recording on YouTube](https://youtu.be/lRFDSsi8ZcY?t=10933)
 
 #### 2. Visualizations   
 
