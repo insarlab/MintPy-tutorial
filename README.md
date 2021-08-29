@@ -9,14 +9,13 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
 
 ## Contents ([nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/tree/main/))
 
-#### 1. Small baseline time series analysis with `smallbaselineApp`.
+#### 1. Small baseline time series analysis with `smallbaselineApp.py`
 
 This notebook walks through the various processing steps of InSAR time series analysis using MintPy.     
 
    - ISCE/topsStack + MintPy (Sentinel-1 on Fernandina, Galápagos): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp.ipynb)
    - ARIA + MintPy (Sentinel-1 on San Francisco Bay): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp_aria.ipynb)
-       - [2020 UNAVCO short course recroding on YurTube](https://youtu.be/BVdVylW_vVQ)
-       - [2019 UNAVCO short course recording on YouTube](https://youtu.be/lRFDSsi8ZcY?t=10933)
+       - [UNAVCO short course](https://www.unavco.org/event/2021-short-course-insar-processing-analysis-isce/) recordings on YouTube: [2019](https://youtu.be/lRFDSsi8ZcY?t=10933), [2020](https://youtu.be/BVdVylW_vVQ), [2021](https://youtu.be/vtJpM54KbKs?t=3117)
 
 #### 2. Visualizations   
 
@@ -32,7 +31,7 @@ This notebook walks through the various processing steps of InSAR time series an
    - Read / plot displacement time-series of one pixel: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/plot_dis_ts.ipynb)
    - Read HDF5 files in Matlab: [m file](./io/read_hdf5.m)
 
-#### 4. Custom applications.
+#### 4. Custom applications
 
 List of examples of how to build customized application using mintpy modules or to build processing recipe using mintpy scripts.     
 
@@ -50,10 +49,11 @@ List of examples of how to build customized application using mintpy modules or 
    - Sentinel-1 TOPS mode SAR data with [topsApp](https://nbviewer.jupyter.org/github/isce-framework/isce2-docs/blob/master/Notebooks/UNAVCO_2020/TOPS/topsApp.ipynb) [[video](https://youtu.be/V0CFy0i1L80?t=5509)]
    - StripMap mode SAR data with [stripmapApp](https://nbviewer.jupyter.org/github/isce-framework/isce2-docs/blob/master/Notebooks/UNAVCO_2020/Stripmap/stripmapApp.ipynb) [[video](https://youtu.be/Q8sqCN4qfE4?t=7370)]
 
-#### 2. Stack of interferograms processing with [ISCE2 stack processors](https://github.com/isce-framework/isce2/blob/main/contrib/stack/README.md) [[video](https://youtu.be/oc_rMjICnyI?t=1396)]
+#### 2. Stack of interferograms processing with [ISCE2 stack processors](https://github.com/isce-framework/isce2/blob/main/contrib/stack/README.md) [[video](https://youtu.be/vtJpM54KbKs?t=10800)]
 
    - Sentinel-1 TOPS mode SAR data with [topsStack](https://github.com/isce-framework/isce2/blob/main/contrib/stack/topsStack/README.md)
    - StripMap mode SAR data with [stripmapStack](https://github.com/isce-framework/isce2/blob/main/contrib/stack/stripmapStack/README.md)
+   - ALOS-2 ScanSAR and StripMap mode data with [alosStack](https://github.com/isce-framework/isce2/blob/main/contrib/stack/alosStack/alosStack_tutorial.txt)
 
 #### 3. Manipulate ARIA standard InSAR products with [ARIA-tools](https://github.com/aria-tools/ARIA-tools-docs) [[video](https://youtu.be/lRFDSsi8ZcY)]
 
