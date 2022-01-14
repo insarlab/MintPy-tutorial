@@ -36,6 +36,7 @@ This notebook walks through the various processing steps of InSAR time series an
 List of examples of how to build customized application using mintpy modules or to build processing recipe using mintpy scripts.     
 
    - Create water mask in radar coordinates: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/water_mask.ipynb)
+   - Prepare UAVSAR geometry files with multi-segments for MintPy processing: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/prepUAVSAR_geometry.ipynb)
    - Calculate multilook number for InSAR processing with ISCE: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/calc_multilook_number.ipynb)
    - Post-processing of single interferogram after ISCE/stripmapApp: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/stripmapApp_postProc.ipynb)
    - Geo / radar coordinates conversion: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/coord_conversion.ipynb)
