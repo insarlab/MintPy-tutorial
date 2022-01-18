@@ -26,10 +26,10 @@ This notebook walks through the various processing steps of InSAR time series an
 
 #### 3. Read / write data files
 
-   - Read GMT *.grd file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/read_gmt_grd.ipynb)
-   - Read / save time-series HDF5 file into text file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/save_data2text.ipynb)
+   - Read HDF5 file in [Matlab](./io/read_hdf5.m) or [Python](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/read_hdf5.ipynb).
+   - Save HDF5 file into text file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/save_text.ipynb)
    - Read / plot displacement time-series of one pixel: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/plot_dis_ts.ipynb)
-   - Read HDF5 files in [Matlab](./io/read_hdf5.m) or [Python](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/read_hdf5.ipynb).
+   - Read GMT *.grd file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/read_gmt_grd.ipynb)
 
 #### 4. Custom applications
 
