@@ -26,21 +26,23 @@ This notebook walks through the various processing steps of InSAR time series an
 
 #### 3. Read / write data files
 
-   - Read GMT *.grd file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/read_gmt_grd.ipynb)
-   - Read / save time-series HDF5 file into text file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/save_data2text.ipynb)
+   - Read HDF5 file in [Matlab](./io/read_hdf5.m) or [Python](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/read_hdf5.ipynb).
+   - Save HDF5 file into text file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/save_text.ipynb)
    - Read / plot displacement time-series of one pixel: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/plot_dis_ts.ipynb)
-   - Read HDF5 files in Matlab: [m file](./io/read_hdf5.m)
+   - Read GMT *.grd file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/io/read_gmt_grd.ipynb)
 
 #### 4. Custom applications
 
 List of examples of how to build customized application using mintpy modules or to build processing recipe using mintpy scripts.     
 
    - Create water mask in radar coordinates: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/water_mask.ipynb)
+   - Prepare UAVSAR geometry files with multi-segments for MintPy processing: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/prepUAVSAR_geometry.ipynb)
    - Calculate multilook number for InSAR processing with ISCE: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/calc_multilook_number.ipynb)
    - Post-processing of single interferogram after ISCE/stripmapApp: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/stripmapApp_postProc.ipynb)
    - Geo / radar coordinates conversion: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/coord_conversion.ipynb)
    - Plot GPS as quiver on top of InSAR data: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/plot_gps_quiver.ipynb)
    - Average velocity estimation demonstration: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/ts2vel.ipynb)
+   - Coherence Change Detection: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/coherence_change_detection.ipynb)
 
 ## Useful links from external repositories ##
 
