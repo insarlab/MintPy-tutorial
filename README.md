@@ -13,8 +13,7 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
 
 This notebook walks through the various processing steps of InSAR time series analysis using MintPy.     
 
-   - ISCE/topsStack + MintPy (Sentinel-1 on Fernandina, Galápagos): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp.ipynb)
-   - ARIA + MintPy (Sentinel-1 on San Francisco Bay): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp_aria.ipynb)
+   - ARIA + MintPy (Sentinel-1 on San Francisco Bay, California): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp_aria.ipynb)
        - [UNAVCO short course](https://www.unavco.org/event/2022-short-course-insar-processing-analysis-isce/) recordings on YouTube: [2019](https://youtu.be/lRFDSsi8ZcY?t=10933), [2020](https://youtu.be/BVdVylW_vVQ), [2021](https://youtu.be/vtJpM54KbKs?t=3117), [2022](https://youtu.be/QQxIY4gFHbI?t=4466)
 
 #### 2. Visualizations   
