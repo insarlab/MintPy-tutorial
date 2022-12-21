@@ -1,4 +1,4 @@
-## Simulation of 3D phase time-series based on [`mintpy.simulation`](https://github.com/insarlab/MintPy/tree/main/mintpy/simulation) ##
+## Simulation of 3D phase time-series based on [`mintpy.simulation`](https://github.com/insarlab/MintPy/tree/main/src/mintpy/simulation) ##
 
 🚨 **This toolbox is in alpha stage and undergoing rapid development.** 🚨
 

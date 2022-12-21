@@ -13,9 +13,8 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
 
 This notebook walks through the various processing steps of InSAR time series analysis using MintPy.     
 
-   - ISCE/topsStack + MintPy (Sentinel-1 on Fernandina, Galápagos): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp.ipynb)
-   - ARIA + MintPy (Sentinel-1 on San Francisco Bay): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp_aria.ipynb)
-       - [UNAVCO short course](https://www.unavco.org/event/2021-short-course-insar-processing-analysis-isce/) recordings on YouTube: [2019](https://youtu.be/lRFDSsi8ZcY?t=10933), [2020](https://youtu.be/BVdVylW_vVQ), [2021](https://youtu.be/vtJpM54KbKs?t=3117)
+   - ARIA + MintPy (Sentinel-1 on San Francisco Bay, California): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/smallbaselineApp_aria.ipynb)
+       - [UNAVCO short course](https://www.unavco.org/event/2022-short-course-insar-processing-analysis-isce/) recordings on YouTube: [2019](https://youtu.be/lRFDSsi8ZcY?t=10933), [2020](https://youtu.be/BVdVylW_vVQ), [2021](https://youtu.be/vtJpM54KbKs?t=3117), [2022](https://youtu.be/QQxIY4gFHbI?t=4466)
 
 #### 2. Visualizations   
 
@@ -43,6 +42,11 @@ List of examples of how to build customized application using mintpy modules or 
    - Plot GPS as quiver on top of InSAR data: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/plot_gps_quiver.ipynb)
    - Average velocity estimation demonstration: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/ts2vel.ipynb)
    - Coherence Change Detection: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/coherence_change_detection.ipynb)
+<<<<<<< HEAD
+=======
+   - Mask / estimate / correct phase non-closure related bias: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/applications/closure_phase_bias.ipynb)
+
+>>>>>>> upstream/main
 
 ## Useful links from external repositories ##
 
@@ -61,4 +65,3 @@ List of examples of how to build customized application using mintpy modules or 
 
    - Downloading GUNW products using [ariaDownload](https://nbviewer.jupyter.org/github/aria-tools/ARIA-tools-docs/blob/master/JupyterDocs/ariaDownload/ariaDownload_tutorial.ipynb)
    - Preparing GUNW products for time series analysis using [ariaTSsetup](https://nbviewer.jupyter.org/github/aria-tools/ARIA-tools-docs/blob/master/JupyterDocs/ariaTSsetup/ariaTSsetup_tutorial.ipynb)
-
