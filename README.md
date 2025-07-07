@@ -1,6 +1,6 @@
 # MintPy-tutorial
 
-[![Language](https://img.shields.io/badge/python-3.6%2B-blue.svg?style=flat-square)](https://www.python.org/)
+[![Language](https://img.shields.io/badge/python-3.8%2B-blue.svg?style=flat-square)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-GPLv3+-yellow.svg?style=flat-square)](https://github.com/insarlab/MintPy-tutorial/blob/main/LICENSE)
 [![render](https://img.shields.io/badge/render-nbviewer-orange.svg?style=flat-square)](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/tree/main/)
 [![Citation](https://img.shields.io/badge/doi-10.1016%2Fj.cageo.2019.104331-blue?style=flat-square)](https://doi.org/10.1016/j.cageo.2019.104331)
@@ -14,7 +14,7 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
 This notebook walks through the various processing steps of InSAR time series analysis using MintPy.     
 
    - ARIA + MintPy (Sentinel-1 on San Francisco Bay, California): [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/main/workflows/smallbaselineApp_aria.ipynb)
-       - [UNAVCO / EarthScope short course](https://www.earthscope.org/event/2023-insar-isce-short-course/) recordings on YouTube: [2019](https://youtu.be/lRFDSsi8ZcY?t=10933), [2020](https://youtu.be/BVdVylW_vVQ), [2021](https://youtu.be/vtJpM54KbKs?t=3117), [2022](https://youtu.be/QQxIY4gFHbI?t=4466), [2023](https://youtu.be/Qyj1-UMMWWc?si=BHwx8Llxv2_MtYYP&t=3458), [2024](https://youtu.be/-svj_B_yJyI?si=ImXCshCjjaRxV-yl&t=3051)
+       - [EarthScope InSAR short course](https://www.earthscope.org/event/2023-insar-isce-short-course/) recordings on YouTube: [2019](https://youtu.be/lRFDSsi8ZcY?t=10933), [2020](https://youtu.be/BVdVylW_vVQ), [2021](https://youtu.be/vtJpM54KbKs?t=3117), [2022](https://youtu.be/QQxIY4gFHbI?t=4466), [2023](https://youtu.be/Qyj1-UMMWWc?si=BHwx8Llxv2_MtYYP&t=3458), [2024](https://youtu.be/-svj_B_yJyI?si=ImXCshCjjaRxV-yl&t=3051)
 
 #### 2. Visualizations   
 
